@@ -1,5 +1,5 @@
 # Species-specific prediction of antimicrobial activity
-The tool predicts antimicrobial activity of peptides for five species, <br><i>Bacillus subtilis, Escherichia coli, Pseudomonas aeruginosa, Staphylococcus aureus, Staphylococcus epidermidis</i>
+The tool predicts antimicrobial activity of peptides for five bacterial species, <br><i>Bacillus subtilis, Escherichia coli, Pseudomonas aeruginosa, Staphylococcus aureus, Staphylococcus epidermidis</i>
 
 
 ## Dependencies
