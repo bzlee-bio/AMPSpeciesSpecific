@@ -15,7 +15,7 @@ Output file contains peptide list with prediction probabilities as AMPs for five
 
 ## Running
 
-`python AMP_species_prediction.py --fasta <input_fasta_file.fasta> --out <output_file_name> --windowsize <window size> --step <step size>`
+`python AMP_species_prediction.py --fasta <input_fasta_file.fasta> --out <output_file_name> --windowsize <window size> --step <step size>` <br>
 A window size and step size is optional.
 If the window size is provoded, input sequences will be truncated into the size of the window with step size.
 <br><br>
