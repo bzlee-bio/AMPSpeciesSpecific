@@ -24,5 +24,6 @@ If the window size is provoded, input sequences will be truncated into the size 
 
 
 ## Citation
-Lee, Byungjo, Min K. Shin, In-Wook Hwang, Jung S. Yoo, Wonhee Jang, and Jung-Suk Sung. 2022. "Identifying novel antimicrobial peptides from venom gland of spider Pardosa astrigera by deep multi-task learning" Frontiers in Microbiology (Accepted)
+Lee B, Shin MK, Yoo JS, Jang W and Sung J-S (2022) Identifying novel antimicrobial peptides from venom gland of spider Pardosa astrigera by deep multi-task learning. Front. Microbiol. 13:971503. doi: 10.3389/fmicb.2022.971503
+http://doi.org/10.3389/fmicb.2022.971503
 
