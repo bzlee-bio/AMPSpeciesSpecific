@@ -35,10 +35,10 @@ Leveraging transcriptomic data from <i>Pardosa astrigera</i>, a deep learning mo
 ## Citation
 If you use this tool or prediction results of <i>Pardosa astrigera</i> in your research, please cite the following paper:
 
-- Prediction model
+### Prediction model
 Lee B, Shin MK, Yoo JS, Jang W and Sung J-S (2022) Identifying novel antimicrobial peptides from venom gland of spider <i>Pardosa astrigera</i> by deep multi-task learning. Front. Microbiol. 13:971503. doi: 10.3389/fmicb.2022.971503
 http://doi.org/10.3389/fmicb.2022.971503
 
-- Prediction results for <i>Pardosa astrigera</i>
+### Prediction results for <i>Pardosa astrigera</i>
 To be added.
 
