@@ -28,7 +28,9 @@ To run prediction tool, use the following command:
 <br><br>
 
 ## Prediction results of <i>Pardosa astrigera</i>
+File: PA_pred_results.csv
 Leveraging transcriptomic data from <i>Pardosa astrigera</i>, a deep learning model was employed to predict antimicrobial peptides. The results demonstrate high prediction probabilities for peptides effective against the five specified bacterial species.
+
 
 ## Citation
 If you use this tool or prediction results of <i>Pardosa astrigera</i> in your research, please cite the following paper:
